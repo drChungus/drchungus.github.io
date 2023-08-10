@@ -1,10 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Hello World!"
 ---
 
 # Welcome
 
-**Hello world**, this is my first Jekyll blog post.
+**Hello world**, this is my first Jekyll blog post. After many sleepless nights I found that hosting a blog is easier than I expected and the proper solution was before my eyes the whole time: GitHub!
 
-I hope you like it!
+Let's see where this journey will take us!
+
+
+I hope you will like it!
