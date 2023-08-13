@@ -12,3 +12,5 @@ Let's see where this journey will take us!
 
 
 I hope you will like it!
+
+![Responsiveness](/images/galaxy.png)
