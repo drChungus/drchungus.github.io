@@ -13,4 +13,4 @@ Let's see where this journey will take us!
 
 I hope you will like it!
 
-![CatInSpaceOnSynthesizer](https://sadanduseless.b-cdn.net/wp-content/uploads/2020/01/space-music1.jpg)https://sadanduseless.b-cdn.net/wp-content/uploads/2020/01/space-music1.jpg)
+![CatInSpaceOnSynthesizer](https://sadanduseless.b-cdn.net/wp-content/uploads/2020/01/space-music1.jpg)
